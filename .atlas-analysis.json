@@ -1,0 +1,68 @@
+{
+  "projectType": "general",
+  "projectName": "Sahaj Hospitals",
+  "projectDescription": "A healthcare facility located in Indore, Madhya Pradesh providing comprehensive medical services.",
+  "theme": "almond",
+  "primaryColor": "#0066CC",
+  "lightColor": "#4D94FF",
+  "darkColor": "#004C99",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Overview",
+        "pages": [
+          "introduction",
+          "about"
+        ]
+      },
+      {
+        "group": "Services",
+        "pages": [
+          "services/medical-specialties",
+          "services/emergency-care",
+          "services/diagnostic-services",
+          "services/surgical-services"
+        ]
+      },
+      {
+        "group": "Facilities",
+        "pages": [
+          "facilities/departments",
+          "facilities/infrastructure",
+          "facilities/equipment"
+        ]
+      },
+      {
+        "group": "Patient Information",
+        "pages": [
+          "patients/admission-process",
+          "patients/visiting-hours",
+          "patients/patient-rights",
+          "patients/insurance-billing"
+        ]
+      },
+      {
+        "group": "Contact",
+        "pages": [
+          "contact/location",
+          "contact/appointments",
+          "contact/feedback"
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Comprehensive medical services",
+    "Emergency care facilities",
+    "Advanced diagnostic services",
+    "Specialized surgical procedures",
+    "Patient-centered care"
+  ],
+  "publicApiSurface": [
+    "Emergency services",
+    "Outpatient consultations",
+    "Diagnostic testing",
+    "Inpatient care",
+    "Surgical procedures"
+  ]
+}
